@@ -1,0 +1,1 @@
+@extends('admintheme.default')
